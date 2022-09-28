@@ -57,6 +57,9 @@ for (let i = 0; i < 5; i++) {
     console.log(`Jon's health is now ` + jonSnowHealth)
 }
 
+//Jareds comments so i can have a difference in my file
+//
+
 ///write logic in the for loop that detects if Jons health gets 0 or less, in which case you will pring that jon is dead and will stop further loop iterations
 
 ///write the for loop including the logic you wrote for the first assignment as a while loop, it should behave the same
